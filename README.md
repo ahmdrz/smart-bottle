@@ -1,6 +1,6 @@
 # Hoosh Noosh smart bottle web service
 
-HooshNoosh was a project for [IoT Hackaton](iotcup.ir)
+HooshNoosh was a project for [IoT Hackaton](http://iotcup.ir)
 
 Source code of HooshNoosh web service.
 This web service has been made for IoTCup.ir , a IoT start up and it is not completely finished.
