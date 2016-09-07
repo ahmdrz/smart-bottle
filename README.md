@@ -1,5 +1,7 @@
 # Hoosh Noosh smart bottle web service
 
+HooshNoosh was a project for [IoT Hackaton](iotcup.ir)
+
 Source code of HooshNoosh web service.
 This web service has been made for IoTCup.ir , a IoT start up and it is not completely finished.
 
@@ -120,7 +122,7 @@ After sending request , server will send a response that contains a JSON string 
 
 The result's value maybe different by calling each functions , Result types is : 
 
-````
+````go
 
 type ReturnUser struct {
 	Token string `json:"token"`
